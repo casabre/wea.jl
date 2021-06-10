@@ -25,3 +25,13 @@ dims = (10, 2);
 
 wa = WrappedArray(id, T, dims);
 ```
+
+## Contributing
+
+I welcome any contributions, enhancements, and bug-fixes.  [Open an issue](https://github.com/casabre/wea.jl/issues) on GitHub and [submit a pull request](https://github.com/casabre/wea.jl/pulls).
+
+## License
+
+wea.py is 100% free and open-source, under the [MIT license](LICENSE). Use it however you want.
+
+This package is [Treeware](http://treeware.earth). If you use it in production, then we ask that you [**buy the world a tree**](https://plant.treeware.earth/casabre/wea.jl) to thank us for our work. By contributing to the Treeware forest you’ll be creating employment for local families and restoring wildlife habitats.
