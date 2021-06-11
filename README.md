@@ -4,7 +4,7 @@
 
 Giving the package a meaning - wea stands for Wrapped Exchange Array. If you want to share array-packed data with different processes, remote nodes or different language executables ( yes, that's the vision ), wea is aiming to be a lean, lightweight and convenient alternative to [Protocol Buffers](https://developers.google.com/protocol-buffers) and Co.
 
-It's inspired and adopted from Julia’s [InterProcessCommunication](https://github.com/emmt/InterProcessCommunication.jl) WrappedArray in collaboration with @emmt.
+It's inspired and adopted from Julia’s [InterProcessCommunication](https://github.com/emmt/InterProcessCommunication.jl) WrappedArray in collaboration with [@emmt](https://github.com/emmt).
 
 If this sounds good to you, just give it a try.
 
