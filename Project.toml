@@ -1,0 +1,16 @@
+name = "wea"
+uuid = "a909633d-b918-4497-a5cf-0be4286f8c24"
+authors = ["Carsten Sauerbrey"]
+version = "0.1.0"
+
+[deps]
+InterProcessCommunication = "a7427343-1d15-5490-a218-bfcb7db836a2"
+
+[compat]
+julia = "1.2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
