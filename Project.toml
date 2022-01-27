@@ -7,6 +7,7 @@ version = "0.1.0"
 InterProcessCommunication = "a7427343-1d15-5490-a218-bfcb7db836a2"
 
 [compat]
+InterProcessCommunication = "0.1"
 julia = "1.2"
 
 [extras]
